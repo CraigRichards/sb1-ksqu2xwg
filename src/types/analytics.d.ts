@@ -1,0 +1,1 @@
+// Remove this file as it's replaced by window.d.ts
